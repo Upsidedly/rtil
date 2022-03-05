@@ -1,12 +1,17 @@
 {
   "name": "rtil",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "2 simple functions.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Test Complete!\""
   },
-  "keywords": ["random", "math", "integer", "upsided"],
+  "keywords": [
+    "random",
+    "math",
+    "integer",
+    "upsided"
+  ],
   "author": "upsided",
   "license": "MIT",
   "type": "module"
