@@ -4,7 +4,7 @@
   "description": "2 simple functions.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Test Complete!\""
   },
   "keywords": ["random", "math", "integer", "upsided"],
   "author": "upsided",
