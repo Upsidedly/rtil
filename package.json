@@ -14,5 +14,7 @@
   ],
   "author": "upsided",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "homepage": "https://github.com/Upsidedly/rtil#readme",
+  "repository": "https://github.com/Upsidedly/rtil"
 }
