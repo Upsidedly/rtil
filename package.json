@@ -1,0 +1,13 @@
+{
+  "name": "rtil",
+  "version": "1.0.1",
+  "description": "2 simple functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["random", "math", "integer", "upsided"],
+  "author": "upsided",
+  "license": "MIT",
+  "type": "module"
+}
